@@ -1,4 +1,4 @@
-# AI Study Helper
+# AI Flashcards
 
 AI-powered flashcard generator built with Next.js, React, and Google Gemini API.
 
